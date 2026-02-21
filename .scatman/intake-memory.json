@@ -2,7 +2,7 @@
   "kind": "scatman.intake-memory",
   "version": 1,
   "repoFullName": "scatman-ai/canary4",
-  "updatedAt": "2026-02-21T17:34:57.941Z",
+  "updatedAt": "2026-02-21T17:35:02.952Z",
   "memory": {
     "repoFullName": "scatman-ai/canary4",
     "lastBranch": "main",
@@ -12,7 +12,7 @@
     "recentEstimateCount": 1,
     "lastRunId": null,
     "lastRunFinishedAt": null,
-    "updatedAt": "2026-02-21T17:34:57.941Z",
+    "updatedAt": "2026-02-21T17:35:02.952Z",
     "sessions": [
       {
         "sessionId": "58cd59e3-8d9f-4d6c-a37b-f24b79dc6fc2",
@@ -29,13 +29,13 @@
         "estimateMinUsd": 12,
         "estimateMaxUsd": 48,
         "estimateConfidence": "low",
-        "estimateAccepted": false,
+        "estimateAccepted": true,
         "workorderId": null,
         "runId": null,
         "archivedAt": "2026-02-21T17:34:56.778Z",
         "archivedReason": "estimate_generated",
         "createdAt": "2026-02-21T17:34:27.270Z",
-        "updatedAt": "2026-02-21T17:34:56.779Z"
+        "updatedAt": "2026-02-21T17:34:58.936Z"
       }
     ]
   }
