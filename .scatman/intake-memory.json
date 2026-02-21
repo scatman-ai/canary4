@@ -2,23 +2,41 @@
   "kind": "scatman.intake-memory",
   "version": 1,
   "repoFullName": "scatman-ai/canary4",
-  "updatedAt": "2026-02-21T16:07:41.819Z",
-  "repo": {
-    "provider": "github",
-    "repoId": "1163425677",
-    "defaultBranch": "main",
-    "initializedBy": "repo-onboarding"
-  },
+  "updatedAt": "2026-02-21T17:34:28.955Z",
   "memory": {
     "repoFullName": "scatman-ai/canary4",
     "lastBranch": "main",
-    "preferredFastTrackType": null,
+    "preferredFastTrackType": "docs",
     "recentRunCount": 0,
     "successfulRunCount": 0,
     "recentEstimateCount": 0,
     "lastRunId": null,
     "lastRunFinishedAt": null,
-    "updatedAt": "2026-02-21T16:07:41.819Z",
-    "sessions": []
+    "updatedAt": "2026-02-21T17:34:28.955Z",
+    "sessions": [
+      {
+        "sessionId": "58cd59e3-8d9f-4d6c-a37b-f24b79dc6fc2",
+        "status": "gathering",
+        "fastTrackType": "docs",
+        "repoFullName": "scatman-ai/canary4",
+        "branch": "main",
+        "originalMessage": "Create a concise README for this repo with setup, env vars, run/test commands, and deployment notes.",
+        "lastUserMessage": "Create a concise README for this repo with setup, env vars, run/test commands, and deployment notes.",
+        "lastAssistantMessage": null,
+        "checkpointCount": 2,
+        "planTitle": null,
+        "planScope": null,
+        "estimateMinUsd": null,
+        "estimateMaxUsd": null,
+        "estimateConfidence": null,
+        "estimateAccepted": false,
+        "workorderId": null,
+        "runId": null,
+        "archivedAt": null,
+        "archivedReason": null,
+        "createdAt": "2026-02-21T17:34:27.270Z",
+        "updatedAt": "2026-02-21T17:34:27.271Z"
+      }
+    ]
   }
 }
