@@ -1,0 +1,24 @@
+{
+  "kind": "scatman.intake-memory",
+  "version": 1,
+  "repoFullName": "scatman-ai/canary4",
+  "updatedAt": "2026-02-21T16:07:41.819Z",
+  "repo": {
+    "provider": "github",
+    "repoId": "1163425677",
+    "defaultBranch": "main",
+    "initializedBy": "repo-onboarding"
+  },
+  "memory": {
+    "repoFullName": "scatman-ai/canary4",
+    "lastBranch": "main",
+    "preferredFastTrackType": null,
+    "recentRunCount": 0,
+    "successfulRunCount": 0,
+    "recentEstimateCount": 0,
+    "lastRunId": null,
+    "lastRunFinishedAt": null,
+    "updatedAt": "2026-02-21T16:07:41.819Z",
+    "sessions": []
+  }
+}
