@@ -2,7 +2,7 @@
   "kind": "scatman.intake-memory",
   "version": 1,
   "repoFullName": "scatman-ai/canary4",
-  "updatedAt": "2026-02-21T17:44:41.526Z",
+  "updatedAt": "2026-02-21T17:44:43.790Z",
   "memory": {
     "repoFullName": "scatman-ai/canary4",
     "lastBranch": "main",
@@ -12,11 +12,11 @@
     "recentEstimateCount": 1,
     "lastRunId": null,
     "lastRunFinishedAt": null,
-    "updatedAt": "2026-02-21T17:44:41.526Z",
+    "updatedAt": "2026-02-21T17:44:43.790Z",
     "sessions": [
       {
         "sessionId": "b77e84dd-b20b-40c9-8565-3159c36038bb",
-        "status": "planning",
+        "status": "planned",
         "fastTrackType": "docs",
         "repoFullName": "scatman-ai/canary4",
         "branch": "main",
@@ -24,8 +24,8 @@
         "lastUserMessage": "Create README update with quickstart + env vars + test command section.",
         "lastAssistantMessage": "Thanks — I reviewed your input and identified the next required details.\n\nI still need:\n- Who is the target audience?\n- What format should the docs be in?\n- How should we validate this change before execution?",
         "checkpointCount": 7,
-        "planTitle": null,
-        "planScope": null,
+        "planTitle": "Documentation: quickstart, env vars, run/test command, deploy not...",
+        "planScope": "quickstart, env vars, run/test command, deploy notes",
         "estimateMinUsd": null,
         "estimateMaxUsd": null,
         "estimateConfidence": null,
@@ -35,7 +35,7 @@
         "archivedAt": null,
         "archivedReason": null,
         "createdAt": "2026-02-21T17:44:27.575Z",
-        "updatedAt": "2026-02-21T17:44:40.516Z"
+        "updatedAt": "2026-02-21T17:44:42.251Z"
       },
       {
         "sessionId": "58cd59e3-8d9f-4d6c-a37b-f24b79dc6fc2",
